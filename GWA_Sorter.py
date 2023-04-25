@@ -14,4 +14,4 @@ if gwa > highest_gwa:
     highest_gwa=gwa
     highest_name=name
 #Print output
-print(highest_name, ", ", highest_gwa)
+print(highest_name, "got the highest GWA with an average of", highest_gwa,". Congratulations!")
